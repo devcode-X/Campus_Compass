@@ -1,0 +1,32 @@
+# Core + modern LangChain ecosystem
+langchain==1.0.4
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+
+# Embeddings + Vector DB
+sentence-transformers
+faiss-cpu
+chromadb
+
+# Utilities
+python-dotenv
+pdfplumber
+python-docx
+tqdm
+requests
+huggingface_hub
+
+# API / server
+fastapi
+uvicorn
+pydantic
+
+# Optional tools
+transformers
+langgraph
+
+#OCR
+paddlepaddle==3.2.0
+paddleocr>=3.2.0
+pdf2image

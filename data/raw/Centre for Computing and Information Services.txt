@@ -1,0 +1,36 @@
+Centre for Computing and Information Services
+Centre for Computing and Information Services (CCIS) caters to the Computational and Information Technology (IT) related needs of the academic as well as the residential community at the Institute. CCIS offers high-end computational servers, high availability web servers, network services and provides a robust platform for various academic and research activities of the Institute. Licensed software, email services and in house software development for the Institute needs are also managed by the CCIS. All the equipments have power back (UPS) up with proper air-conditioning.
+
+CCIS is one of the growing Units to meet the crescent demand of computerization and software solutions required for the technical infrastructure of the Institute.
+
+Services
+Network Connectivity and Internet
+CCIS provides uninterrupted gigabit network connectivity to the entire campus including Academic Buildings, Student Hostels, Central Library, Administrative Building, Vivekananda Lecture Hall, Commercial Complex, Guest Hostel, Health Centre and Employee Residences with 24-core OFC architecture. Internet access is provided by a dedicated lease line of 1:1 from National Knowledge Network (NKN) of 1 Gbps and 100 Mbps from BSNL ISP. The Institute is a part of the National Knowledge Network (NKN) under which all the national level institutes are connected via the high-speed fiber network.
+
+High-Performance Computing (HPC) Cluster
+The HPC facility installed in CCIS is used for the simulation of mathematical, physical and engineering problems. The main areas of applications are such as numerical reservoir simulation, multiphase flows, flow through porous media, simulation of molecular dynamics, seismic wave propagation and forced/natural convection dominated flows. Currently, the HPC cluster has nine (one master and eight compute) nodes (Fujitsu PR3000) and each node having dual processor with 20 cores/processor (with total 180 cores). The HPC cluster also has software like Gaussian and Tec360.
+
+Communication Devices
+EPABX Server
+Cisco BE6000H EPABX server with support of 1000 users with RAID 5 setting, 64 GB DDR4-2400 MHZ-RDIMM/PC4-19200/ Single rank/X4/1.2v 770W AC hot plug power supply for 1 U C-series rack server, 300x8 GB 12 G SAS 10 K RPM SFF HDD.
+Wi-Fi Controller
+Cisco Wi-Fi Controller (Cisco-5520) with scalability of 1500 access points option of 2x10 Gigabit Ethernet interfaces or 2 Gigabit Ethernet interfaces. It has inbuilt license to support 300 numbers of access points. The campus is well equipped with latest Cisco Access Point.
+Software Services
+Matlab
+Matlab integrates mathematical computing visualization, and a powerful language to provide a flexible environment for technical computing.
+Comsol
+Comsol software provides the foundation tools and solutions for data analysis, report generation and enterprise-wide information delivery. It can be used for virtually any application data, access data management, data analysis and data presentation.
+AutoCAD
+AutoCAD is the professional two dimensional CAD program that delivers communication and collaboration tools, true saving drawing productivity tools.
+Mathematica
+Mathematica is a computational software program used in scientific, engineering, and mathematical fields and other areas of technical computing.
+Tecplot
+Tecplot is used for technical plotting and data processing. It performs the data visualization for the functions of one and two variables, parametric curves and representations in polar/spherical coordinates. Tecplot also provides contour plots, data scatter plots, curve fitting, confidence and prediction intervals.
+SPSS (Statistical Package for the Social Sciences)
+SPSS is a data management and analysis product. It can perform a variety of data analysis and presentation functions including statistical analysis and graphical presentation of data.
+ASPEN
+ASPEN is a process simulation software package widely used in industry and academia. Given a process design and an appropriate selection of thermodynamic models, Aspen uses mathematical models to predict the performance of the process. This information can then be used in an iterative fashion to optimize the design. This accurate modelling of thermodynamic properties is particularly important in the separation of non-ideal mixtures, and Aspen has a large databases of regressed parameters. Aspen can handle very complex processes, including multiple-column separation systems, chemical reactors, distillation of chemically reactive compounds, and even electrolyte solutions like mineral acids and sodium hydroxide solutions.
+CMG
+CMG is used for reservoir simulation at the forefront in simulating new recovery methods and developing innovative ways to help you overcome existing technological barriers to reach your strategic goals.
+Undergraduate Computer Laboratory
+CCIS has populated 67 Desktop machines in two separate labs with Windows and Fedora operating systems (OS). Currently, the laboratory facilities are used for undergraduate Computer Programming and other related workshops. It is also available to students for assignments and projects.
